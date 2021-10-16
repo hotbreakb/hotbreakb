@@ -20,7 +20,7 @@ URL: https://github.com/kyechan99/capsule-render#demo
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helen1012&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotbreakb&show_icons=true&theme=dark)
 
 <!--
 URL: https://github.com/anuraghazra/github-readme-stats
