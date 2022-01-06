@@ -14,7 +14,14 @@ URL: https://github.com/kyechan99/capsule-render#demo
 -->
 
 <div align="center">
-  <a href="https://www.notion.so/helen1012/dbb632c10eb14e16a4651ec745473a88" target="_blank"> <img alt="Notion" src ="https://img.shields.io/badge/Notion-FF8C00.svg?&style=for-the-badge&logo=Notion&logoColor=White"/> </a>
+  <!-- 스킬 아이콘 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/> <br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHelen1012&count_bg=%23F81CA1&title_bg=%23444444&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
